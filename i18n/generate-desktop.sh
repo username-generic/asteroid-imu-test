@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 
 # This script is used to extract the translated app names found inevery .ts file
 # and gather those strings with the .desktop.template file in a single .desktop
